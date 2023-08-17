@@ -1,7 +1,14 @@
 ### Hi there 👋
 
 
- 🔭 I’m currently 
+## Acerca de ...
+Mediante ...
+
+##  Recursos de proyectos...
+
+
+
+* [ROS Discussion Forum](https://discourse.ros.org/)
 
 <!-- 
 - 🌱 I’m currently learning ...
