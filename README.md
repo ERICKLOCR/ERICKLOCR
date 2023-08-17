@@ -14,7 +14,7 @@ se compartiran la informaciòn correspondiente para poder instalar u configurar 
 
 
 
-* [ROS Discussion Forum](https://discourse.ros.org/)
+
 
 <!-- 
 - 🌱 I’m currently learning ...
