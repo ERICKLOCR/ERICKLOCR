@@ -60,6 +60,10 @@ ___
 
 <h1 align="center">Hi 👋, ELC </h1>
 
+``diff+Cambiar su texto en la discordia a verde+Texto verde en la discordia`` 
+
+
+
 
 <!-- 
 - 🌱 I’m currently learning ...
