@@ -77,7 +77,7 @@ ___
 
 <h1 align="center">Hi 👋, ELC </h1>
 
-``A                                                                                                                                                                                                                                                                                       `` 
+``A                                                                                                                                                                                                                             `` 
 
 
 
