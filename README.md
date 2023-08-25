@@ -1,3 +1,12 @@
+
+## Howto build FPGA bitstream or RTL simulation:
+
+- To build KC705 bitstream file:
+
+        $ cd sv/prj/impl/kc705
+        $ make
+
+
 .. redirect-from::
 
   Docs-Guide 
