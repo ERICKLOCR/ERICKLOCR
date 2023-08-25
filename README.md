@@ -30,7 +30,9 @@ Este es un ejemplo de texto que da entrada a una lista numerada:
 2. Elemento 2
 3. Elemento 3
 
-
+***
+---
+___
 
 Formato como **negrita** , *cursiva* de una manera muy sencilla.
 
@@ -41,8 +43,17 @@ Esto sería un encabezado 2
 —-
 
 
+***
+---
+___
 
 
+ __texto seleccionado J J J  J__ 
+
+
+ __texto seleccionado J J J  
+ DD D                 D    
+ DDDDD      D               DJ__ 
 
 > Un país, una civilización se puede juzgar por la forma en que trata a sus animales.  — Mahatma Gandhi
 
