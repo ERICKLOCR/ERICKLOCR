@@ -4,6 +4,12 @@
 ## Acerca de ...
  ...
 
+.. AAA::
+
+  Docs
+
+ELC  Documentation
+===================
 
 ## configuraciones inciales  ...
 
