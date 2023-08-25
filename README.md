@@ -101,13 +101,21 @@ ___
 -->
 
 
-## DOCUMENT
--YOUTUBE 
-
-
-[http://sergeykhbr.github.io/riscv_vhdl/](http://sergeykhbr.github.io/riscv_vhdl/)
+## PRUEB DE LINKKSSS
+-REDES
 
 [YOUTUBE](https://www.youtube.com/watch?v=4fezP875xOQ)
+
+
+
+## PRUEB DE IMAG
+
+![SOC top](docs/doxygen/pics/soc_top_v5.png)
+
+
+## PRUEB DE DOC
+
+SoC documentation in [.pdf](docs/riscv_vhdl_trm.pdf) formats.
 
 
 
