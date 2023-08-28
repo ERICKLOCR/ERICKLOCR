@@ -1,6 +1,10 @@
 
 # Hi there 👋
 
+- ABC :
+
+        $ cd
+
 $ make
 ## ABC :
 
