@@ -122,4 +122,8 @@ ___
 SoC documentation in [.pdf](docs/riscv_vhdl_trm.pdf) formats.
 
 
+- AAAA :
+
+        $ cd
+
 
