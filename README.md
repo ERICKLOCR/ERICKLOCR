@@ -144,7 +144,7 @@ SoC documentation in [.pdf](docs/riscv_vhdl_trm.pdf) formats.
 
 
 
-<img src="https://github.com/ROBOTIS-GIT/emanual/blob/master/assets/images/platform/turtlebot3/logo_turtlebot3.png" width="300">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.turtlebot.com%2Fturtlebot2%2F&psig=AOvVaw0xbwcxs1fNp_6Ubvn1Z7Y0&ust=1694126521731000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPCqvKaHl4EDFQAAAAAdAAAAABAI" width="300">
 
 
 
@@ -158,7 +158,7 @@ SoC documentation in [.pdf](docs/riscv_vhdl_trm.pdf) formats.
 
 
 
-# TURTLEBOT FSICO 
+# TURTLEBOT FISICO 
 
 - [![CONTROL DE PUNTO CON MATLAB ](https://github.com/ERICKLOCR/NUEVAPRUEBA)](https://github.com/ERICKLOCR/NUEVAPRUEBA)
 - [![CONTROL DE TRAYECTORIA CON MATLAB](https://github.com/ERICKLOCR/NUEVAPRUEBA)](https://github.com/ERICKLOCR/NUEVAPRUEBA)
