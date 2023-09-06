@@ -146,9 +146,9 @@ SoC documentation in [.pdf](docs/riscv_vhdl_trm.pdf) formats.
 
 <img src="https://github.com/ROBOTIS-GIT/emanual/blob/master/assets/images/platform/turtlebot3/logo_turtlebot3.png" width="300">
 
--[![AUTOSTART](https://github.com/ERICKLOCR/NUEVAPRUEBA)](https://github.com/ERICKLOCR/NUEVAPRUEBA)
--[![COMUNICACION WIFI](https://github.com/ERICKLOCR/NUEVAPRUEBA)](https://github.com/ERICKLOCR/NUEVAPRUEBA)
--[![MATLAB](https://github.com/ERICKLOCR/NUEVAPRUEBA)](https://github.com/ERICKLOCR/NUEVAPRUEBA)
+- [![AUTOSTART](https://github.com/ERICKLOCR/NUEVAPRUEBA)](https://github.com/ERICKLOCR/NUEVAPRUEBA)
+- [![COMUNICACION WIFI](https://github.com/ERICKLOCR/NUEVAPRUEBA)](https://github.com/ERICKLOCR/NUEVAPRUEBA)
+- [![MATLAB](https://github.com/ERICKLOCR/NUEVAPRUEBA)](https://github.com/ERICKLOCR/NUEVAPRUEBA)
 
 
 
