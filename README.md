@@ -162,7 +162,7 @@ SoC documentation in [.pdf](docs/riscv_vhdl_trm.pdf) formats.
 
 - [![CONTROL DE PUNTO CON MATLAB ](https://github.com/ERICKLOCR/NUEVAPRUEBA)](https://github.com/ERICKLOCR/NUEVAPRUEBA)
 - [![CONTROL DE TRAYECTORIA CON MATLAB](https://github.com/ERICKLOCR/NUEVAPRUEBA)](https://github.com/ERICKLOCR/NUEVAPRUEBA)
-- [![CONTROL MEDIANTE DE JOYSTIK](https://github.com/ERICKLOCR/NUEVAPRUEBA)](https://github.com/ERICKLOCR/NUEVAPRUEBA)
+- [![CONTROL MEDIANTE JOYSTIK](https://github.com/ERICKLOCR/NUEVAPRUEBA)](https://github.com/ERICKLOCR/NUEVAPRUEBA)
 
 
 
