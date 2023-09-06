@@ -151,7 +151,7 @@ SoC documentation in [.pdf](docs/riscv_vhdl_trm.pdf) formats.
 # JETSON 
 
 - [![AUTOSTART](https://github.com/ERICKLOCR/AUTOSART)](https://github.com/ERICKLOCR/AUTOSART)
-- [![COMUNICACION WIFI](https://github.com/ERICKLOCR/NUEVAPRUEBA)](https://github.com/ERICKLOCR/NUEVAPRUEBA)
+- [![COMUNICACION WIFI](https://github.com/ERICKLOCR/A.git)](https://github.com/ERICKLOCR/A.git)
 - [![MATLAB](https://github.com/ERICKLOCR/NUEVAPRUEBA)](https://github.com/ERICKLOCR/NUEVAPRUEBA)
 
 
