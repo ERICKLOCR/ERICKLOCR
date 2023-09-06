@@ -140,11 +140,15 @@ SoC documentation in [.pdf](docs/riscv_vhdl_trm.pdf) formats.
 
 ####
 
-# TurtleBot3
+# TurtleBot2
 
 
 
 <img src="https://github.com/ROBOTIS-GIT/emanual/blob/master/assets/images/platform/turtlebot3/logo_turtlebot3.png" width="300">
+
+
+
+# JETSON 
 
 - [![AUTOSTART](https://github.com/ERICKLOCR/NUEVAPRUEBA)](https://github.com/ERICKLOCR/NUEVAPRUEBA)
 - [![COMUNICACION WIFI](https://github.com/ERICKLOCR/NUEVAPRUEBA)](https://github.com/ERICKLOCR/NUEVAPRUEBA)
@@ -154,25 +158,13 @@ SoC documentation in [.pdf](docs/riscv_vhdl_trm.pdf) formats.
 
 
 
-## Wiki for turtlebot3_simulations Packages
-- http://wiki.ros.org/turtlebot3_simulations (metapackage)
-- http://wiki.ros.org/turtlebot3_fake
-- http://wiki.ros.org/turtlebot3_gazebo
+# TURTLEBOT FSICO 
 
-## Open Source related to TurtleBot3
-- [turtlebot3](https://github.com/ROBOTIS-GIT/turtlebot3)
-- [turtlebot3_msgs](https://github.com/ROBOTIS-GIT/turtlebot3_msgs)
-- [turtlebot3_simulations](https://github.com/ROBOTIS-GIT/turtlebot3_simulations)
-- [turtlebot3_applications_msgs](https://github.com/ROBOTIS-GIT/turtlebot3_applications_msgs)
-- [turtlebot3_applications](https://github.com/ROBOTIS-GIT/turtlebot3_applications)
-- [turtlebot3_autorace](https://github.com/ROBOTIS-GIT/turtlebot3_autorace)
-- [turtlebot3_deliver](https://github.com/ROBOTIS-GIT/turtlebot3_deliver)
-- [hls_lfcd_lds_driver](https://github.com/ROBOTIS-GIT/hls_lfcd_lds_driver)
-- [turtlebot3_manipulation](https://github.com/ROBOTIS-GIT/turtlebot3_manipulation.git)
-- [turtlebot3_manipulation_simulations](https://github.com/ROBOTIS-GIT/turtlebot3_manipulation_simulations.git)
-- [robotis_manipulator](https://github.com/ROBOTIS-GIT/robotis_manipulator)
-- [open_manipulator_msgs](https://github.com/ROBOTIS-GIT/open_manipulator_msgs)
-- [open_manipulator](https://github.com/ROBOTIS-GIT/open_manipulator)
+- [![CONTROL DE PUNTO CON MATLAB ](https://github.com/ERICKLOCR/NUEVAPRUEBA)](https://github.com/ERICKLOCR/NUEVAPRUEBA)
+- [![CONTROL DE TRAYECTORIA CON MATLAB](https://github.com/ERICKLOCR/NUEVAPRUEBA)](https://github.com/ERICKLOCR/NUEVAPRUEBA)
+- [![CONTROL MEDIANTE DE JOYSTIK](https://github.com/ERICKLOCR/NUEVAPRUEBA)](https://github.com/ERICKLOCR/NUEVAPRUEBA)
+
+
 
 
 
