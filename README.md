@@ -9,16 +9,13 @@
 # JETSON 
 
 - [![AUTOSTART](https://github.com/ERICKLOCR/AUTOSART)](https://github.com/ERICKLOCR/AUTOSART)
-- [![COMUNICACION WIFI](https://github.com/ERICKLOCR/COM_JET_SSH.git)](https://github.com/ERICKLOCR/COM_JET_SSH.git)
 - [![MATLAB](https://github.com/ERICKLOCR/MATLAB_ROS_.git)](https://github.com/ERICKLOCR/MATLAB_ROS_.git)
 
 
 
 
 
-# TURTLEBOT REAL
 
-- [![CONTROL MEDIANTE JOYSTIK](https://github.com/ERICKLOCR/NUEVAPRUEBA)](https://github.com/ERICKLOCR/NUEVAPRUEBA)
 
 
 
