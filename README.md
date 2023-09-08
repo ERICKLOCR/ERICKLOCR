@@ -152,7 +152,7 @@ SoC documentation in [.pdf](docs/riscv_vhdl_trm.pdf) formats.
 
 - [![AUTOSTART](https://github.com/ERICKLOCR/AUTOSART)](https://github.com/ERICKLOCR/AUTOSART)
 - [![COMUNICACION WIFI](https://github.com/ERICKLOCR/wifi__.git)](https://github.com/ERICKLOCR/wifi__.git)
-- [![MATLAB](https://github.com/ERICKLOCR/NUEVAPRUEBA)](https://github.com/ERICKLOCR/NUEVAPRUEBA)
+- [![MATLAB](https://github.com/ERICKLOCR/MATLAB_ROS_.git)](https://github.com/ERICKLOCR/MATLAB_ROS_.git)
 
 
 
